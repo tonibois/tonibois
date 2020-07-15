@@ -15,7 +15,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-- 📫 How to reach me: ...
+- 📫 A bit more about me:
 
 [![Researchgate][1.1]][1]
 [![ORCID][2.1]][2]
