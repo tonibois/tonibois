@@ -33,7 +33,7 @@
 [![Kaggle][14.1]][14]
 [![Scopus][15.1]][15]
 [![Geogebra][16.1]][16]
-[![Facebook][17.1][17]
+[![Facebook][17.1]][17]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
