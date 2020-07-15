@@ -1,11 +1,10 @@
-devtools::install_github("hadley/emo")
 
 # Hi there 👋, it's Toni.
 
 - 🔭 I’m currently working at University of Zaragoza (UNIZAR) on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
 - 🌱 I’m learning application of AI methods and algorithms in computer vision
 - 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
-- emo::ji("face") My preferred programming languages are:
+- My preferred programming languages are:
   1. Python
   2. Shell and CMD scripting
   3. Fortan
@@ -70,4 +69,4 @@ Here are some ideas to get you started: - 🔭 I’m currently working on Automa
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+- ⚡ Fun fact: ...  emo::ji("face") -->
