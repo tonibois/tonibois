@@ -29,6 +29,7 @@
 [![Wikiloc][12.1]][12]
 [![Mendeley][13.1]][13]
 [![Kaggle][14.1]][14]
+[![Scopus][15.1]][15]
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
@@ -48,6 +49,7 @@
 [12.1]: https://i.imgur.com/qD41dwm.png
 [13.1]: https://i.imgur.com/3sAseRF.png
 [14.1]: https://i.imgur.com/7aDp7MX.png
+[15.1]: https://i.imgur.com/rHrl9N9.png
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -66,6 +68,7 @@
 [12]: https://es.wikiloc.com/wikiloc/user.do?id=1345462
 [13]: https://www.mendeley.com/profiles/antoni-oliver1/
 [14]: https://www.kaggle.com/tonibois
+[15]: https://www.scopus.com/authid/detail.uri?authorId=56603709400
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
