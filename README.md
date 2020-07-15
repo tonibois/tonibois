@@ -10,48 +10,46 @@
 
 <!-- display the social media buttons in your README -->
 
-[[Publons][1.1]][1]
-[[Researchgate][2.1]][2]
-[[ORCID][3.1]][3]
-[[Google Scholar][4.1]][4]
-[[Linkedin][5.1]][5]
-[[Github][6.1]][6]
-[[Academia][7.1]][7]
-[[Sketchfab][8.1]][8]
-[[Plotly][9.1]][9]
-[[Youtube][10.1]][10]
+
+[[Researchgate][1.1]][1]
+[[ORCID][2.1]][2]
+[[Google Scholar][3.1]][3]
+[[Linkedin][4.1]][4]
+[[Github][5.1]][5]
+[[Academia][6.1]][6]
+[[Sketchfab][7.1]][7]
+[[Plotly][8.1]][8]
+[[Youtube][9.1]][9]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
 <!-- icons with padding -->
 
-<!--[1.1]: https://static1.squarespace.com/static/576fcda2e4fcb5ab5152b4d8/t/5c0803d04d7a9cea582e9ae6/1594680513636/?format=1500w
-[2.1]: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvxSBB7WDjeg8LkhPDTqI0mX7zLrR33hx9UQ&usqp=CAU
-[3.1]: https://orcid.org/assets/vectors/orcid.logo.icon.svg
-[4.1]: https://www.papersinphysics.org/public/site/images/ezeferrero/google-scholar.png
-[5.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
-[6.1]: https://img2.freepng.es/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg
-[7.1]: https://a.academia-assets.com/assets/academia-logo-redesign-2015-A-e26cea4e7b60442d1bf312743a2d56ececd63a3d1541baea464697dc3478746e.svg
-[8.1]: https://static.sketchfab.com/img/press/logos/logo.png
-[9.1]: https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png
-[10.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
+[1.1]: https://drive.google.com/file/d/1jkz3Y0E6eFPm7aot93wl3wJQY7lwyIin/view?usp=sharing
+[2.1]: https://drive.google.com/file/d/1antetfsfkL3rGHldKY42Q_AujmrpMvHc/view?usp=sharing
+[3.1]: https://drive.google.com/file/d/1ZGQv4mKdHymTEzQCL6MNmmb2ESWcG0Zu/view?usp=sharing
+[4.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
+[5.1]: https://drive.google.com/file/d/1ypRQwhL7tfnHbzsu2IwbJF7YGA_MxOiX/view?usp=sharing
+[6.1]: https://drive.google.com/file/d/104bDiGraBYmVBEpUb2yNxFyhx8-42u-0/view?usp=sharing
+[7.1]: https://drive.google.com/file/d/1BW50wf3wxU5u1XfVDeIxHkHPtvS5MWLR/view?usp=sharing
+[8.1]: https://drive.google.com/file/d/10bHgW5GjjanMvWaKd477HR3rqmIGGXJj/view?usp=sharing
+[9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
--->
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://publons.com/researcher/2333243/antonio-oliver/
-[2]: https://www.researchgate.net/profile/Antoni_Oliver
-[3]: http://orcid.org/0000-0001-8571-2733
-[4]: https://scholar.google.co.in/citations?user=zQGDAioAAAAJ&hl=es
-[5]: http://linkedin.com/in/aoliverg/
-[6]: http://www.github.com/tonibois
-[7]: https://uib-es.academia.edu/ToniOliver
-[8]: https://sketchfab.com/tonibois
-[9]: https://chart-studio.plotly.com/~ToniBois
-[10]:https://www.youtube.com/channel/UCwblk_p6j6e0Yi-J3czgFLw?view_as=subscriber
+
+[1]: https://www.researchgate.net/profile/Antoni_Oliver
+[2]: http://orcid.org/0000-0001-8571-2733
+[3]: https://scholar.google.co.in/citations?user=zQGDAioAAAAJ&hl=es
+[4]: http://linkedin.com/in/aoliverg/
+[5]: http://www.github.com/tonibois
+[6]: https://uib-es.academia.edu/ToniOliver
+[7]: https://sketchfab.com/tonibois
+[8]: https://chart-studio.plotly.com/~ToniBois
+[9]:https://www.youtube.com/channel/UCwblk_p6j6e0Yi-J3czgFLw?view_as=subscriber
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
