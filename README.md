@@ -1,7 +1,7 @@
 # Hi there 👋, it's Toni.
 
 - 🎓 I defended PhD [Thesis][20] at University of The Balearic Islands (UIB, Spain, 2018). I worked at UIB as assistant professor (2017-2019)
-- 🔬 I’m currently working at University of Zaragoza (UNIZAR) at BSICoS group (https://bsicos.unizar.es/people/) on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
+- 🔬 I’m currently working at University of Zaragoza (UNIZAR) at BSICoS[21] on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
 - 📐 I’m learning application of AI methods and algorithms in computer vision
 - 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
 - 📈 My preferred programming languages are:
@@ -62,6 +62,7 @@
 [18.1]: https://i.imgur.com/2vxwKxZ.png
 [19.1]: https://i.imgur.com/WC6DLj2.jpg
 [20.1]: Thesis
+[21.1]: BSICoS
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -86,6 +87,7 @@
 [18]: https://create.kahoot.it/search?creator=toni_og&filter=1
 [19]: https://sites.google.com/site/meteopina/: 
 [20]: https://www.tdx.cat/handle/10803/462902
+[21]: https://bsicos.unizar.es/people/
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
