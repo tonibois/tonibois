@@ -34,7 +34,7 @@
 [6.1]: http://i.imgur.com/Y8ieQb8
 [7.1]: http://i.imgur.com/iO0zN7M
 [8.1]: http://i.imgur.com/puAejxJ
-[9.1]: http://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
+[9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
 
 <!-- links to your social media accounts -->
