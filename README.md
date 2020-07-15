@@ -26,14 +26,14 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://drive.google.com/file/d/1jkz3Y0E6eFPm7aot93wl3wJQY7lwyIin/view?usp=sharing
-[2.1]: https://drive.google.com/file/d/1antetfsfkL3rGHldKY42Q_AujmrpMvHc/view?usp=sharing
-[3.1]: https://drive.google.com/file/d/1ZGQv4mKdHymTEzQCL6MNmmb2ESWcG0Zu/view?usp=sharing
+[1.1]: https://imgur.com/zMtL4Is
+[2.1]: https://imgur.com/XHIFNZx
+[3.1]: https://imgur.com/FYuboL3
 [4.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
-[5.1]: https://drive.google.com/file/d/1ypRQwhL7tfnHbzsu2IwbJF7YGA_MxOiX/view?usp=sharing
-[6.1]: https://drive.google.com/file/d/104bDiGraBYmVBEpUb2yNxFyhx8-42u-0/view?usp=sharing
-[7.1]: https://drive.google.com/file/d/1BW50wf3wxU5u1XfVDeIxHkHPtvS5MWLR/view?usp=sharing
-[8.1]: https://drive.google.com/file/d/10bHgW5GjjanMvWaKd477HR3rqmIGGXJj/view?usp=sharing
+[5.1]: https://imgur.com/LwU3Hoc
+[6.1]: https://imgur.com/Y8ieQb8
+[7.1]: https://imgur.com/iO0zN7M
+[8.1]: https://imgur.com/puAejxJ
 [9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
 
