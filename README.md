@@ -30,12 +30,12 @@
 [2.1]: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvxSBB7WDjeg8LkhPDTqI0mX7zLrR33hx9UQ&usqp=CAU
 [3.1]: https://orcid.org/assets/vectors/orcid.logo.icon.svg
 [4.1]: https://www.papersinphysics.org/public/site/images/ezeferrero/google-scholar.png
-[5.1]: https://image.flaticon.com/icons/png/512/124/124011.png
+[5.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
 [6.1]: https://img2.freepng.es/20180326/gxq/kisspng-github-computer-icons-icon-design-github-5ab8a31e334e73.4114704215220498222102.jpg
 [7.1]: https://a.academia-assets.com/assets/academia-logo-redesign-2015-A-e26cea4e7b60442d1bf312743a2d56ececd63a3d1541baea464697dc3478746e.svg
 [8.1]: https://static.sketchfab.com/img/press/logos/logo.png
 [9.1]: https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png
-[10.1]: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdWgcS98EUZai7FCN63EvvouF6Ui1-Kn1O4g&usqp=CAU
+[10.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
 -->
 
