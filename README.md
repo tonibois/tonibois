@@ -26,9 +26,9 @@
 [![Youtube][9.1]][9]
 [![UIB][10.1]][10]
 [![BSICos][11.1]][11]
-[![Wikiloc][12.1][12]
-[![Mendeley][13.1][13]
-[![Kaggle][14.1][14]
+[![Wikiloc][12.1]][12]
+[![Mendeley][13.1]][13]
+[![Kaggle][14.1]][14]
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
