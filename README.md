@@ -11,15 +11,15 @@
 <!-- display the social media buttons in your README -->
 
 
-[[Researchgate][1.1]][1]
-[[ORCID][2.1]][2]
-[[Google Scholar][3.1]][3]
-[[Linkedin][4.1]][4]
-[[Github][5.1]][5]
-[[Academia][6.1]][6]
-[[Sketchfab][7.1]][7]
-[[Plotly][8.1]][8]
-[[Youtube][9.1]][9]
+[![Researchgate][1.1]][1]
+[![ORCID][2.1]][2]
+[![Google Scholar][3.1]][3]
+[![Linkedin][4.1]][4]
+[![Github][5.1]][5]
+[![Academia][6.1]][6]
+[![Sketchfab][7.1]][7]
+[![Plotly][8.1]][8]
+[![Youtube][9.1]][9]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
