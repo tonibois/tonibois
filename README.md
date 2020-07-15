@@ -23,7 +23,7 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://static1.squarespace.com/static/576fcda2e4fcb5ab5152b4d8/t/5c0803d04d7a9cea582e9ae6/1594680513636/?format=1500w
+<!--[1.1]: https://static1.squarespace.com/static/576fcda2e4fcb5ab5152b4d8/t/5c0803d04d7a9cea582e9ae6/1594680513636/?format=1500w
 [2.1]: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvxSBB7WDjeg8LkhPDTqI0mX7zLrR33hx9UQ&usqp=CAU
 [3.1]: https://orcid.org/assets/vectors/orcid.logo.icon.svg
 [4.1]: https://www.papersinphysics.org/public/site/images/ezeferrero/google-scholar.png
@@ -33,6 +33,8 @@
 [8.1]: https://static.sketchfab.com/img/press/logos/logo.png
 [9.1]: https://cdn.analyticsvidhya.com/wp-content/uploads/2017/01/04015019/plotly_logo.png
 [10.1]: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdWgcS98EUZai7FCN63EvvouF6Ui1-Kn1O4g&usqp=CAU
+
+-->
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
