@@ -36,7 +36,7 @@
 [![Facebook][17.1]][17]
 [![Kahoot][18.1]][18]
 [![Sites][19.1]][19]
-[Thesis]:https://www.tdx.cat/handle/10803/462902
+[!Thesis]: https://www.tdx.cat/handle/10803/462902
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
