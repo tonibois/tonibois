@@ -1,4 +1,3 @@
-
 # Hi there 👋, it's Toni.
 
 - 🔭 I’m currently working at University of Zaragoza (UNIZAR) at BSICoS group (https://bsicos.unizar.es/people/) on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
