@@ -1,5 +1,6 @@
 # Hi there 👋, it's Toni.
 
+- I awarded PhD at University of The Balearic Islands (UIB, Spain, 2018), and I worked at UIB as assistant professor (2017-2019)
 - 🔭 I’m currently working at University of Zaragoza (UNIZAR) at BSICoS group (https://bsicos.unizar.es/people/) on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
 - 🌱 I’m learning application of AI methods and algorithms in computer vision
 - 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
