@@ -26,14 +26,14 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://imgur.com/zMtL4Is
-[2.1]: https://imgur.com/XHIFNZx
-[3.1]: https://imgur.com/FYuboL3
+[1.1]: https://i.imgur.com/zMtL4Is
+[2.1]: https://i.imgur.com/XHIFNZx
+[3.1]: https://i.imgur.com/FYuboL3
 [4.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
-[5.1]: https://imgur.com/LwU3Hoc
-[6.1]: https://imgur.com/Y8ieQb8
-[7.1]: https://imgur.com/iO0zN7M
-[8.1]: https://imgur.com/puAejxJ
+[5.1]: https://i.imgur.com/LwU3Hoc
+[6.1]: https://i.imgur.com/Y8ieQb8
+[7.1]: https://i.imgur.com/iO0zN7M
+[8.1]: https://i.imgur.com/puAejxJ
 [9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
 
@@ -49,7 +49,7 @@
 [6]: https://uib-es.academia.edu/ToniOliver
 [7]: https://sketchfab.com/tonibois
 [8]: https://chart-studio.plotly.com/~ToniBois
-[9]:https://www.youtube.com/channel/UCwblk_p6j6e0Yi-J3czgFLw?view_as=subscriber
+[9]: https://www.youtube.com/channel/UCwblk_p6j6e0Yi-J3czgFLw?view_as=subscriber
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
