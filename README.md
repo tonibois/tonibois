@@ -40,8 +40,8 @@
 [7.1]: https://i.imgur.com/iO0zN7M.png
 [8.1]: https://i.imgur.com/puAejxJ.png
 [9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
-
-
+[10.1]: https://i.imgur.com/evfWKKj.png
+[11.1]: https://i.imgur.com/oxq6f8z.png
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -55,6 +55,8 @@
 [7]: https://sketchfab.com/tonibois
 [8]: https://chart-studio.plotly.com/~ToniBois
 [9]: https://www.youtube.com/channel/UCwblk_p6j6e0Yi-J3czgFLw?view_as=subscriber
+[10]: https://www.uib.eu/personal/ABjIwNTIzOA/ 
+[11]: http://bsicos.unizar.es/antoni-oliver-gelabert/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
