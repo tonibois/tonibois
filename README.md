@@ -1,8 +1,7 @@
-### Hi there 👋
-
+# Hi there 👋, it's Toni.
 
 - 🔭 I’m currently working at University of Zaragoza (UNIZAR) on automated analysis of fluorescent images of the left ventricle tissue using OPENCV python
-- 🌱 I’m currently learning AI methods and algorithms
+- 🌱 I’m currently learning application of AI methods and algorithms in computer vision
 - 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
 
 
