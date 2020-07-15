@@ -63,7 +63,7 @@
 [19.1]: https://i.imgur.com/WC6DLj2.jpg
 [20.1]: Thesis
 [21.1]: BSICoS
-[22.1]: University of Zaragoza (UNIZAR)
+
 
 
 <!-- links to your social media accounts -->
