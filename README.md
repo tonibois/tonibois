@@ -26,15 +26,15 @@
 
 <!-- icons with padding -->
 
-[1.1]: https://i.imgur.com/zMtL4Is
-[2.1]: https://i.imgur.com/XHIFNZx
-[3.1]: https://i.imgur.com/FYuboL3
+[1.1]: http://i.imgur.com/zMtL4Is
+[2.1]: http://i.imgur.com/XHIFNZx
+[3.1]: http://i.imgur.com/FYuboL3
 [4.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/linkedin-icon_32x32.png
-[5.1]: https://i.imgur.com/LwU3Hoc
-[6.1]: https://i.imgur.com/Y8ieQb8
-[7.1]: https://i.imgur.com/iO0zN7M
-[8.1]: https://i.imgur.com/puAejxJ
-[9.1]: https://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
+[5.1]: http://i.imgur.com/LwU3Hoc
+[6.1]: http://i.imgur.com/Y8ieQb8
+[7.1]: http://i.imgur.com/iO0zN7M
+[8.1]: http://i.imgur.com/puAejxJ
+[9.1]: http://68ef2f69c7787d4078ac-7864ae55ba174c40683f10ab811d9167.ssl.cf1.rackcdn.com/youtube-icon_32x32.png
 
 
 <!-- links to your social media accounts -->
