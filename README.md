@@ -64,6 +64,8 @@
 [20.1]: Thesis
 [21.1]: BSICoS
 [22.1]: University of Zaragoza (UNIZAR)
+
+
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -90,9 +92,8 @@
 [20]: https://www.tdx.cat/handle/10803/462902
 [21]: https://bsicos.unizar.es/people/
 [22]: http://www.unizar.es/
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
 <!--
 **tonibois/tonibois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: - 🔭 I’m currently working on Automated analysis of images from microscope using OPENCV python
