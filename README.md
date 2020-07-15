@@ -24,8 +24,8 @@
 [![Sketchfab][7.1]][7]
 [![Plotly][8.1]][8]
 [![Youtube][9.1]][9]
-[![UIB]][10.1][10]
-[![BSICos]][11.1][11]
+[![UIB][10.1]][10]
+[![BSICos][11.1]][11]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
