@@ -30,6 +30,7 @@
 [![Mendeley][13.1]][13]
 [![Kaggle][14.1]][14]
 [![Scopus][15.1]][15]
+[![Geogebra][16.1]][16]
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
@@ -50,6 +51,7 @@
 [13.1]: https://i.imgur.com/3sAseRF.png
 [14.1]: https://i.imgur.com/7aDp7MX.png
 [15.1]: https://i.imgur.com/rHrl9N9.png
+[16.1]: https://i.imgur.com/58DJv31.png
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -69,6 +71,7 @@
 [13]: https://www.mendeley.com/profiles/antoni-oliver1/
 [14]: https://www.kaggle.com/tonibois
 [15]: https://www.scopus.com/authid/detail.uri?authorId=56603709400
+[16]: https://www.geogebra.org/u/toni.oliver87
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
