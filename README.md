@@ -99,7 +99,6 @@
 [22]: http://www.unizar.es/
 [23]: https://www.google.com/maps/contrib/113046197090732473177/
 [24]: https://www.uib.cat/
-[25]: https://www.uib.cat/
 [26]: https://diari.uib.es/arxiu/Aceleracion-y-optimizacion-de-procesos-en-la.cid526350
 [27]: https://canal.uib.cat/cataleg/?contentId=223825
 
