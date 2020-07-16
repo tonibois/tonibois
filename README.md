@@ -5,6 +5,16 @@
 - 🔬 I’m currently working at [University of Zaragoza (UNIZAR)][22] at [BSICoS][21] on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
 - 📐 I’m learning application of AI methods and algorithms in computer vision
 - 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
+- 📘 My most rellevant publications in International Journals:
+
+  1. [PED Molecular Descriptors][30]
+  2. [Improved SSIP using High Density MEPs] [31]
+  3. [Fast MEPs and SSIP method][32]
+  4. [UltaFast Virtual Screening Devices][33]
+  5. [Neural Information Processing][34]
+  6. [Sthochastic Computing][35]
+  
+
 - 📈 My preferred programming languages are:
 
   1. Python 3
@@ -101,6 +111,12 @@
 [24]: https://www.uib.cat/
 [26]: https://diari.uib.es/arxiu/Aceleracion-y-optimizacion-de-procesos-en-la.cid526350
 [27]: https://canal.uib.cat/cataleg/?contentId=223825
+[30]: https://www.nature.com/articles/srep43738
+[31]: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.25574
+[32]: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.24695
+[33]: https://ieeexplore.ieee.org/abstract/document/7845709
+[34]: https://www.worldscientific.com/doi/abs/10.1142/S0129065714300034
+[35]: https://ieeexplore.ieee.org/abstract/document/7093194
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!--
