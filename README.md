@@ -23,7 +23,7 @@
   4. Matlab
   5. R
   
-- ⚡ Fun fact: Snorkeling, kayacking, hikking, cycling, all kinds of Beers, Red Wine, rock & blues & jazz music 
+- ⚡ Fun fact: Snorkeling, swimming (🏊) kayacking, hikking, cycling (🚴 ), all kinds of 🍺, Red Wine (🍷) , rock (🎸 ) & blues (🎹) & jazz music (🎷), dogs (🐶)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
