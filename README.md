@@ -36,6 +36,7 @@
 [![Facebook][17.1]][17]
 [![Kahoot][18.1]][18]
 [![Sites][19.1]][19]
+[![GoogleMaps][23.1]][23]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -63,7 +64,7 @@
 [19.1]: https://i.imgur.com/WC6DLj2.jpg
 [20.1]: Thesis
 [21.1]: BSICoS
-
+[23.1]: https://i.imgur.com/5Pl5sDC.png
 
 
 <!-- links to your social media accounts -->
@@ -92,6 +93,7 @@
 [20]: https://www.tdx.cat/handle/10803/462902
 [21]: https://bsicos.unizar.es/people/
 [22]: http://www.unizar.es/
+[23]: https://www.google.com/maps/contrib/113046197090732473177/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!--
