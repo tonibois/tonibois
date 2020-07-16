@@ -38,7 +38,7 @@
 [![Kahoot][18.1]][18]
 [![Sites][19.1]][19]
 [![GoogleMaps][23.1]][23]
-[![UIB][24.1]][24]
+[![UIB][25.1]][25]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -68,6 +68,7 @@
 [21.1]: BSICoS
 [23.1]: https://i.imgur.com/5Pl5sDC.png
 [24.1]: UIB
+[25.1]: https://i.imgur.com/Qtceyxk.png
 [26.1]: report
 [27.1]: report graduation 2011
 <!-- links to your social media accounts -->
