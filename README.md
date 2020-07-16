@@ -24,10 +24,10 @@
   5. R
   
 - ⚡ Fun fact: 
-  1. Sports & Nature : snorkeling, swimming (🏊) kayacking, hikking, cycling (🚴 )
+  1. Sports & Nature : snorkeling, swimming 🏊, kayacking, hikking, cycling 🚴 
   2. Food & Drink    : all kinds of 🍺, Red Wine (🍷) 
-  3. Music           : rock (🎸 ) & blues (🎹) & jazz music (🎷)
-  4. Pets            : dogs (🐶)
+  3. Music           : rock 🎸 & blues 🎹 & jazz 🎷
+  4. Pets            : dogs 🐶
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
