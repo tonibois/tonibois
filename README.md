@@ -54,7 +54,7 @@
 [![Kahoot][18.1]][18]
 [![Sites][19.1]][19]
 [![GoogleMaps][23.1]][23]
-
+[![edX][36.1]][36]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -86,6 +86,7 @@
 [24.1]: UIB
 [25.1]: https://i.imgur.com/Qtceyxk.png
 [26.1]: report
+[36.1]: https://i.imgur.com/rmg6Am3.png
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
@@ -123,6 +124,7 @@
 [33]: https://ieeexplore.ieee.org/abstract/document/7845709
 [34]: https://www.worldscientific.com/doi/abs/10.1142/S0129065714300034
 [35]: https://ieeexplore.ieee.org/abstract/document/7093194
+[36]: https://profile.edx.org/u/toni_oliver87
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!--
