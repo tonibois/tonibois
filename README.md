@@ -38,7 +38,7 @@
 [![Kahoot][18.1]][18]
 [![Sites][19.1]][19]
 [![GoogleMaps][23.1]][23]
-[![UIB]][24.1]][24]
+[![UIB][24.1]][24]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
