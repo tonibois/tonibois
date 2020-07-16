@@ -10,7 +10,7 @@
   1. [PED Molecular Descriptors][30]
   2. [Improved SSIP using High Density MEPs][31]
   3. [Fast MEPs and SSIP method][32]
-  4. [UltaFast Virtual Screening Devices][33]
+  4. [UltaFast Virtual Screening][33]
   5. [Neural Information Processing][34]
   6. [Sthochastic Computing][35]
   
