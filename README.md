@@ -1,6 +1,6 @@
 # Hi there 👋, it's Toni.
 
-- 📜 I obtained bachelor's in Physics in September 2011 at [University of The Balearic Islands (UIB)][24] (report_b[27])
+- 📜 I obtained bachelor's in Physics in September 2011 at [University of The Balearic Islands (UIB)][24] ([reportgrad][27], 40:00)
 - 🎓 I defended PhD [Thesis][20] at [UIB][24] in 2018 ([report][26]). I worked at UIB as assistant professor (2017-2019)
 - 🔬 I’m currently working at [University of Zaragoza (UNIZAR)][22] at [BSICoS][21] on automated analysis of fluorescent images of the left ventricle tissue using OpenCV-python
 - 📐 I’m learning application of AI methods and algorithms in computer vision
@@ -69,6 +69,7 @@
 [23.1]: https://i.imgur.com/5Pl5sDC.png
 [24.1]: UIB
 [26.1]: report
+[27.1]: reportgrad
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -98,6 +99,7 @@
 [23]: https://www.google.com/maps/contrib/113046197090732473177/
 [24]: https://www.uib.cat/
 [26]: https://diari.uib.es/arxiu/Aceleracion-y-optimizacion-de-procesos-en-la.cid526350
+[27]: https://canal.uib.cat/cataleg/?contentId=223825
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!--
