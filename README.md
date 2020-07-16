@@ -8,7 +8,7 @@
 - 📘 My most rellevant publications in International Journals:
 
   1. [PED Molecular Descriptors][30]
-  2. [Improved SSIP using High Density MEPs] [31]
+  2. [Improved SSIP using High Density MEPs][31]
   3. [Fast MEPs and SSIP method][32]
   4. [UltaFast Virtual Screening Devices][33]
   5. [Neural Information Processing][34]
