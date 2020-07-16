@@ -70,7 +70,7 @@
 [24.1]: UIB
 [25.1]: https://i.imgur.com/Qtceyxk.png
 [26.1]: report
-[27.1]: report graduation 2011
+
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
