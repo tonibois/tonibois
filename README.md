@@ -22,6 +22,8 @@
   3. Fortan
   4. Matlab
   5. R
+  
+- ⚡ Fun fact: Snorkeling, kayacking, hikking, cycling, all kinds of Beers, Red Wine, rock & blues & jazz music 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
