@@ -25,7 +25,7 @@
   
 - ⚡ Hobbies: 
   1. Sports & Nature               : snorkeling, swimming 🏊, kayacking, hikking, cycling 🚴 
-  2. Food & Drink                  : all kinds of 🍺, Red Wine (🍷) 
+  2. Food & Drink                  : all kinds of 🍺, Red Wine 🍷 
   3. Play & listen 🎼              : rock 🎸 & blues 🎹 & jazz 🎷
   4. Pets                          : dogs 🐶
 
