@@ -15,9 +15,9 @@
   6. [Sthochastic Computing][35]
   
 
-- 📈 My preferred programming languages are:
+- 📈 My preferred/most used programming languages are:
 
-  1. Python 3
+  1. Python
   2. Shell and CMD scripting
   3. Fortan
   4. Matlab
