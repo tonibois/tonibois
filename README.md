@@ -8,11 +8,12 @@
 - 📘 My most rellevant publications in International Journals:
 
   1. [PED Molecular Descriptors][30]
-  2. [Improved SSIP using High Density MEPs][31]
-  3. [Fast MEPs and SSIP method][32]
-  4. [UltaFast Virtual Screening][33]
-  5. [Neural Information Processing][34]
-  6. [Sthochastic Computing][35]
+  2. [Automatic accounting of lateralized CX43][37]
+  3. [Improved SSIP using High Density MEPs][31]
+  4. [Fast MEPs and SSIP method][32]
+  5. [UltaFast Virtual Screening][33]
+  6. [Neural Information Processing][34]
+  7. [Sthochastic Computing][35]
   
 
 - 📈 My preferred/most used programming languages are:
@@ -125,6 +126,7 @@
 [34]: https://www.worldscientific.com/doi/abs/10.1142/S0129065714300034
 [35]: https://ieeexplore.ieee.org/abstract/document/7093194
 [36]: https://profile.edx.org/u/toni_oliver87
+[37]: https://www.mdpi.com/2218-273X/10/9/1334
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!--
