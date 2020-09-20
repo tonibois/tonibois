@@ -11,7 +11,7 @@
   2. [Automatic accounting of lateralized CX43][37]
   3. [Improved SSIP using High Density MEPs][31]
   4. [Fast MEPs and SSIP method][32]
-  5. [UltaFast Virtual Screening][33]
+  5. [UltraFast Virtual Screening][33]
   6. [Neural Information Processing][34]
   7. [Sthochastic Computing][35]
   
