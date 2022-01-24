@@ -1,10 +1,10 @@
 # Hi there 👋, it's Toni.
 
 - 📜 I obtained bachelor's in Physics in September 2011 at [University of The Balearic Islands (UIB)][24] ([report graduation 2011][27], 40:00)
-- 🎓 I defended PhD [Thesis][20] at [UIB][24] in 2018 ([report][26]). I worked at UIB as assistant professor (2017-2019)
-- 🔬 I worked as a postdoc at [University of Zaragoza (UNIZAR)][22] in [BSICoS][21] group on automated analysis of fluorescent images of cardiac tissue using OpenCV-python (2019-2020).
-- 📐 I’m learning application of AI methods and algorithms in computer vision
-- 👯 I’m looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
+- 🎓 Defended PhD [Thesis][20] at [UIB][24] in 2018 ([report][26]). I worked at UIB as assistant professor (2017-2019)
+- 🔬 Worked as a postdoc at [University of Zaragoza (UNIZAR)][22] in [BSICoS][21] group on automated analysis of fluorescent images of cardiac tissue using OpenCV-python (2019-2020).
+- 📐 learning application of AI methods and algorithms in computer vision
+- 👯 looking to collaborate on computer vision projects and I'm specially interested in applications to biomedical imagery
 - 📘 My most rellevant publications in International Journals:
 
   1. [PED Molecular Descriptors][30]
