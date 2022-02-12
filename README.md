@@ -132,7 +132,7 @@
 [36]: https://profile.edx.org/u/toni_oliver87
 [37]: https://www.mdpi.com/2218-273X/10/9/1334
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial 
 <!--
 **tonibois/tonibois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: - 🔭 I’m currently working on Automated analysis of images from microscope using OPENCV python
