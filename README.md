@@ -32,9 +32,9 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- Top languages
+<!-- Top languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonibois)](https://github.com/tonibois/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonibois)](https://github.com/tonibois/github-readme-stats) -->
 
 <!-- display the social media buttons in your README -->
 - 📫 A bit more about me:
